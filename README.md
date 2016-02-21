@@ -1,7 +1,7 @@
 # Twitter API: Tweet Text Tutorial
 <b>So twittert ihr über die Twitter API aus eurer Android App heraus einen Text.</b>
 
-- <a href="" target="_blank" >Tutorial auf YouTube</a>
+- <a href="https://youtu.be/TAYlSVEAmRc" target="_blank" >Tutorial auf YouTube</a>
 - Projekt für Android Studio
 
 <b>Twitter API Setup & in App mit Twitter anmelden (Grundlage für dieses Tutorial):</b>
