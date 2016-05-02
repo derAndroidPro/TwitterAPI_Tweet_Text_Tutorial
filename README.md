@@ -4,12 +4,18 @@
 - <a href="https://youtu.be/TAYlSVEAmRc" target="_blank" >Tutorial auf YouTube</a>
 - Projekt für Android Studio
 
-<b>Grundlage für dieses Tutorial:</b>
-- Twitter API #1: [YouTube](https://youtu.be/8Rv3IrCAKs8) - [GitHub](https://github.com/derAndroidPro/Twitter-API_SignInTutorial)
-
 <b>Wichtige Dateien:</b>
 - [MainActivity.java](https://github.com/derAndroidPro/TwitterAPI_Tweet_Text_Tutorial/blob/master/app/src/main/java/derandroidpro/de/twitter/api/tutorial/MainActivity.java)
 - [Layout.xml](/app/src/main/res/layout/activity_main.xml)
+
+---
+Twitter API Reihe:
+- Teil 1: [YouTube](https://www.youtube.com/watch?v=8Rv3IrCAKs8) / [GitHub](https://github.com/derAndroidPro/Twitter-API_SignInTutorial)
+- Teil 2: [YouTube](https://www.youtube.com/watch?v=TAYlSVEAmRc) / [GitHub](https://github.com/derAndroidPro/TwitterAPI_Tweet_Text_Tutorial)
+- Teil 3: [YouTube](https://www.youtube.com/watch?v=Dw1MJL17x24) / [GitHub](https://github.com/derAndroidPro/Twitter-API_Tweet_Image_Tutorial)
+- Teil 4: [YouTube](https://www.youtube.com/watch?v=KhH1kZOoO_Y) / [GitHub](https://github.com/derAndroidPro/Twitter-API_Display_Tweet)
+
+---
 
 <b>SCREENSHOTS</b>
 
